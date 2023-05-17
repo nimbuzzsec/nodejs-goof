@@ -16,7 +16,6 @@
   "env": {
     "MONGOLAB_URI": {
       "required": true
-      
     }
   },
   "formation": {
